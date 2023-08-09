@@ -1,0 +1,19 @@
+{
+  "name": "Hacer-Tarea",
+  "version": "1.0.0",
+  "description": "crear tareas y gestionarlas desde consola",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "Carlos Andrés Hinestroza Pérez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
